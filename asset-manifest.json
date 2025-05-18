@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/GrapitramaNow/my-app/static/css/main.4fc2f107.css",
-    "main.js": "/GrapitramaNow/my-app/static/js/main.1bba5c51.js",
+    "main.js": "/GrapitramaNow/my-app/static/js/main.f5acca47.js",
     "index.html": "/GrapitramaNow/my-app/index.html",
     "main.4fc2f107.css.map": "/GrapitramaNow/my-app/static/css/main.4fc2f107.css.map",
-    "main.1bba5c51.js.map": "/GrapitramaNow/my-app/static/js/main.1bba5c51.js.map"
+    "main.f5acca47.js.map": "/GrapitramaNow/my-app/static/js/main.f5acca47.js.map"
   },
   "entrypoints": [
     "static/css/main.4fc2f107.css",
-    "static/js/main.1bba5c51.js"
+    "static/js/main.f5acca47.js"
   ]
 }
