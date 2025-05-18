@@ -82,7 +82,7 @@ function App() {
             className="cell"
             onClick={() => setSelectedItem(item)}
           >
-            <img src={item.image} alt={item.name} className="product-img" />
+            <img src={`${process.env.PUBLIC_URL}${item.image}`} alt={item.name} className="product-img" />
             <div className="product-name">{item.name}</div>
           </div>
         ))}
@@ -99,7 +99,7 @@ function App() {
             </button>
 
             <div className="modal-content">
-              <img src={selectedItem.image} className="modal-image" alt="product" />
+              <img src={`${process.env.PUBLIC_URL}${selectedItem.image}`} className="modal-image" alt="product" />
               <div className="modal-details">
                 <h2>{selectedItem.name}</h2>
                 <p><strong>บริษัทที่ผลิต:</strong> {selectedItem.company}</p>
