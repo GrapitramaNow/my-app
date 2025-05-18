@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GrapitramaNow/my-app.git/static/css/main.4fc2f107.css",
+    "main.js": "/GrapitramaNow/my-app.git/static/js/main.1bba5c51.js",
+    "index.html": "/GrapitramaNow/my-app.git/index.html",
+    "main.4fc2f107.css.map": "/GrapitramaNow/my-app.git/static/css/main.4fc2f107.css.map",
+    "main.1bba5c51.js.map": "/GrapitramaNow/my-app.git/static/js/main.1bba5c51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fc2f107.css",
+    "static/js/main.1bba5c51.js"
+  ]
+}
